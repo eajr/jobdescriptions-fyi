@@ -30,7 +30,7 @@ Under the `src/content/docs/` directory we have job descriptions broken out by i
 
 ## CI/CD
 
-This project deploys from the main branch automagically so if your PR gets merged you should see it reflected on the website in just a few minutes.
+This project deploys from the main branch automagically via [CloudFlare](https://www.cloudflare.com/) so if your PR gets merged you should see it reflected on the website in just a few minutes.
 
 ## LICENSE
 
