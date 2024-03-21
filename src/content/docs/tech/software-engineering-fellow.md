@@ -11,11 +11,11 @@ description: A job description for a Software Engineering Fellow
 
 **Reports To**: Chief Technology Officer (CTO)
 
-### About the Role:
+### About the Role
 
 As a Software Engineering Fellow, you will play a pivotal role in shaping the technological direction of our company. This is a highly prestigious position reserved for individuals with exceptional technical expertise, leadership skills, and a track record of innovative contributions to the field of software engineering. You will work closely with our engineering teams, executive leadership, and external partners to drive innovation, mentor junior engineers, and ensure the delivery of high-quality software solutions.
 
-### Responsibilities:
+### Responsibilities
 
 - Lead the design and implementation of complex software systems that meet the strategic objectives of the company.
 - Act as a technical advisor to the CTO and other senior leadership, providing insights and recommendations on emerging technologies, architectural decisions, and best practices.
@@ -29,7 +29,7 @@ As a Software Engineering Fellow, you will play a pivotal role in shaping the te
 - Collaborate with the M&A team to identify potential synergies and opportunities for innovation resulting from acquisitions.
 - Ensure a smooth transition and alignment of engineering teams and practices post-acquisition.
 
-### Qualifications:
+### Qualifications
 
 - A minimum of 10 years of experience in software engineering, with a proven track record of delivering complex software projects.
 - Deep expertise in one or more programming languages (e.g., Python, Java, C++, etc.) and software development methodologies.
@@ -40,7 +40,7 @@ As a Software Engineering Fellow, you will play a pivotal role in shaping the te
 - Excellent communication and collaboration skills, with the ability to work effectively with both technical and non-technical stakeholders.
 - A Bachelor's or Master's degree in Computer Science, Engineering, or a related field. A Ph.D. is highly desirable.
 
-### Benefits:
+### Benefits
 
 - Competitive salary and benefits package.
 - Opportunities for professional growth and development.
