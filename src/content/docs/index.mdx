@@ -1,0 +1,47 @@
+---
+title: Welcome to JobDescriptions.fyi
+description: Get started building your docs site with Starlight.
+template: splash
+hero:
+  tagline: AI generated job descriptions for your business
+  image:
+    file: ../../assets/cute-mascot.webp
+  actions:
+    - text: Starter Guide
+      link: /guides/example/
+      icon: right-arrow
+      variant: primary
+    - text: Request more
+      link: https://github.com/eajr/jobdescriptions-fyi
+      icon: external
+---
+
+import { Card, CardGrid } from "@astrojs/starlight/components";
+
+## Next steps
+
+<CardGrid stagger>
+  <Card title="Start from a good foundation" icon="pencil">
+    Hate being asked to write up a job description every time a new position
+    opens? Or how about trying to find that JD you wrote last year somewhere in
+    Dropbox or OneDrive? Use these job descriptions as mostly a complete
+    foundation and make a few small tweaks to make it your own!
+  </Card>
+  <Card title="Completely open source" icon="add-document">
+    Anyone is allowed to post a job description on this site by using the main
+    project repository hosted on
+    [GitHub](https://github.com/eajr/jobdescriptions-fyi). Fork the project, add
+    your job description, and submit a Pull Request. It won't take long till
+    your change is merged and available for the world!
+  </Card>
+  <Card title="License & attribution free" icon="setting">
+    All job descriptions are under [MIT
+    license](https://opensource.org/license/mit). Use it without any changes, or
+    make as many changes as you want. Even this Astro app is open source and
+    under the same license so feel free to fork and host your own version!
+  </Card>
+  <Card title="Request more descriptions" icon="open-book">
+    Submit a new [GitHub Issue](https://github.com/eajr/jobdescriptions-fyi)
+    with the "Request JD" label and someone will get it generated for you!
+  </Card>
+</CardGrid>
