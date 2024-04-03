@@ -1,6 +1,6 @@
 ---
 title: Principal Software Engineer
-description: A job description for a Principal Software Engineer
+description: An AI generated job description for a Principal Software Engineer
 ---
 
 **Job Title**: Principal Software Engineer

@@ -3,6 +3,7 @@ import starlight from "@astrojs/starlight";
 
 // https://astro.build/config
 export default defineConfig({
+  site: "https://jobdescriptions.fyi",
   integrations: [
     starlight({
       title: "JobDescriptions.fyi",
@@ -18,8 +19,29 @@ export default defineConfig({
           ],
         },
         {
-          label: "Tech",
-          autogenerate: { directory: "tech" },
+          label: "Engineering",
+          items: [
+            {
+              label: "Software Engineers",
+              collapsed: true,
+              autogenerate: { directory: "eng-software-engineers" },
+            },
+            {
+              label: "Management",
+              collapsed: true,
+              autogenerate: { directory: "eng-management" },
+            },
+            {
+              label: "Other",
+              collapsed: true,
+              autogenerate: { directory: "eng-other" },
+            },
+          ],
+        },
+        {
+          label: "Product",
+          collapsed: true,
+          autogenerate: { directory: "product" },
         },
       ],
     }),

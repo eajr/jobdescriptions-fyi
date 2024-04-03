@@ -1,15 +1,11 @@
 ---
 title: Software Engineering Fellow
-description: A job description for a Software Engineering Fellow
+description: An AI generated job description for a Software Engineering Fellow
 ---
 
 **Title**: Software Engineering Fellow
 
 **Location**: [Your City, Your State/Country]
-
-**Department**: Engineering
-
-**Reports To**: Chief Technology Officer (CTO)
 
 ### About the Role
 
