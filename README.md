@@ -13,8 +13,7 @@ Inside of this Astro + Starlight project, you'll see the following folders and f
 │   ├── assets/
 │   ├── content/
 │   │   ├── docs/
-│   │   └── config.ts
-│   └── env.d.ts
+│   └── content.config.ts
 ├── astro.config.mjs
 ├── package.json
 └── tsconfig.json

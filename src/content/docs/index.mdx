@@ -5,7 +5,7 @@ template: splash
 hero:
   tagline: AI generated job descriptions for your business
   image:
-    file: ../../assets/cute-mascot.webp
+    file: ../../assets/job-mascot.png
   actions:
     - text: Starter Guide
       link: /guides/starter/
@@ -14,6 +14,7 @@ hero:
     - text: Request more
       link: https://github.com/eajr/jobdescriptions-fyi
       icon: external
+      variant: minimal
 ---
 
 import { Card, CardGrid } from "@astrojs/starlight/components";
@@ -40,8 +41,9 @@ import { Card, CardGrid } from "@astrojs/starlight/components";
     make as many changes as you want. Even this Astro app is open source and
     under the same license so feel free to fork and host your own version!
   </Card>
-  <Card title="Request more descriptions" icon="open-book">
-    Submit a new [GitHub Issue](https://github.com/eajr/jobdescriptions-fyi)
-    with the "Request JD" label and someone will get it generated for you!
+  <Card title="Looking for interview questions?" icon="open-book">
+    Our sister site [JobInterviews.fyi](https://jobinterviews.fyi) is a
+    collection of interview questions for a wide range of positions. Let us be
+    your one stop shop for all things jobs-related.
   </Card>
 </CardGrid>

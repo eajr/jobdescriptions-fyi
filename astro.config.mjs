@@ -7,9 +7,6 @@ export default defineConfig({
   integrations: [
     starlight({
       title: "JobDescriptions.fyi",
-      components: {
-        Header: "./src/components/AnalyticsHeader.astro",
-      },
       social: {
         github: "https://github.com/eajr/jobdescriptions-fyi",
       },
