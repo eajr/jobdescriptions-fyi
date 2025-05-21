@@ -7,9 +7,9 @@ export default defineConfig({
   integrations: [
     starlight({
       title: "JobDescriptions.fyi",
-      social: {
-        github: "https://github.com/eajr/jobdescriptions-fyi",
-      },
+      social: [{
+        icon: "github", label: "Github", href: "https://github.com/eajr/jobdescriptions-fyi",
+      }],
       sidebar: [
         {
           label: "Guides",
