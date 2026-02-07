@@ -1,6 +1,6 @@
 ---
 title: Staff Software Engineer
-description: An AI generated job description for a Staff Software Engineer
+description: AI generated Staff Software Engineer job description template with multi team technical leadership architecture responsibilities mentoring duties and clear qualification criteria.
 ---
 
 **Title**: Staff Software Engineer

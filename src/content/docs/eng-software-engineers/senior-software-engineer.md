@@ -1,6 +1,6 @@
 ---
 title: Senior Software Engineer
-description: An AI generated job description for a Senior Software Engineer
+description: AI generated Senior Software Engineer job description template with ownership scope delivery expectations technical depth requirements and collaboration responsibilities for product teams.
 ---
 
 **Title**: Senior Software Engineer

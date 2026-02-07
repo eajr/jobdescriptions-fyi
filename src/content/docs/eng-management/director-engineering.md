@@ -1,6 +1,6 @@
 ---
 title: Director of Engineering
-description: An AI generated job description for a Director of Engineering
+description: AI generated Director of Engineering job description template covering strategic leadership responsibilities hiring expectations and core qualifications you can adapt for your organization.
 ---
 
 **Title**: Director of Engineering

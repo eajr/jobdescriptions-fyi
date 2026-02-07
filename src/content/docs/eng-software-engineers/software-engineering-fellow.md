@@ -1,6 +1,6 @@
 ---
 title: Software Engineering Fellow
-description: An AI generated job description for a Software Engineering Fellow
+description: AI generated Software Engineering Fellow job description template focused on long term technical vision cross company influence and advanced engineering leadership expectations.
 ---
 
 **Title**: Software Engineering Fellow

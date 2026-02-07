@@ -1,6 +1,6 @@
 ---
 title: VP of Engineering
-description: An AI generated job description for a VP of Engineering
+description: AI generated VP of Engineering job description template with organizational strategy ownership people leadership expectations and qualification guidance for executive hiring.
 ---
 
 **Title**: VP of Engineering

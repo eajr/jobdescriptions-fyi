@@ -1,6 +1,6 @@
 ---
 title: Site Reliability Engineer
-description: An AI generated job description for a Site Reliability Engineer
+description: AI generated Site Reliability Engineer job description template with reliability goals operational responsibilities incident response scope and technical qualifications for modern platforms.
 ---
 
 **Title**: Technical Program Manager

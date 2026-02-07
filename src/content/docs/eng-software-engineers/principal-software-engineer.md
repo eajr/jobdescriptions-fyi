@@ -1,6 +1,6 @@
 ---
 title: Principal Software Engineer
-description: An AI generated job description for a Principal Software Engineer
+description: AI generated Principal Software Engineer job description template describing technical strategy architecture leadership mentoring expectations and qualifications for senior individual contributors.
 ---
 
 **Job Title**: Principal Software Engineer

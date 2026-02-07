@@ -1,6 +1,6 @@
 ---
 title: Technical Program Manager
-description: An AI generated job description for a Technical Program Manager
+description: AI generated Technical Program Manager job description template defining cross functional planning delivery ownership communication responsibilities and qualifications for complex initiatives.
 ---
 
 **Title**: Technical Program Manager

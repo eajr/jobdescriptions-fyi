@@ -1,6 +1,6 @@
 ---
 title: Product Owner
-description: An AI generated job description for a Product Owner
+description: AI generated Product Owner job description template outlining backlog ownership delivery responsibilities stakeholder communication expectations and practical qualification requirements.
 ---
 
 **Title**: Product Owner

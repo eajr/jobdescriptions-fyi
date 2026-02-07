@@ -1,6 +1,6 @@
 ---
 title: Starter Guide
-description: A getting started guide for JobDescriptions.fyi
+description: Step by step starter guide for using JobDescriptions.fyi to find role templates tailor responsibilities and contribute new job descriptions through GitHub.
 ---
 
 You are welcome to use the search box at the top to search for a specific title or on the left sidebar we have the titles broken out by department. If you do not find the title you are looking for it may be because A) we dont have it yet or B) it may be too specific/niche. In either case you are welcome to submit a [GitHub Issue](https://github.com/eajr/jobdescriptions-fyi) to request one be generated for you _or_ add your own to the project on [GitHub](https://github.com/eajr/jobdescriptions-fyi) by forking the repo and submitted a PR.

@@ -1,6 +1,6 @@
 ---
 title: Junior Software Engineer
-description: An AI generated job description for a Junior Software Engineer
+description: AI generated Junior Software Engineer job description template with entry level responsibilities growth expectations foundational skills and collaboration requirements for early career hiring.
 ---
 
 **Title**: Junior Software Engineer

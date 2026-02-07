@@ -1,6 +1,6 @@
 ---
 title: Product Manager
-description: An AI generated job description for a Product Manager
+description: AI generated Product Manager job description template with ownership scope discovery responsibilities stakeholder collaboration expectations and qualification guidance for hiring teams.
 ---
 
 **Title**: Product Manager

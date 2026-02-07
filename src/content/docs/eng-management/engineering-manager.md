@@ -1,6 +1,6 @@
 ---
 title: Engineering Manager
-description: An AI generated job description for an Engineering Manager
+description: AI generated Engineering Manager job description template with team leadership scope delivery expectations required skills and practical responsibilities to speed up hiring.
 ---
 
 **Title**: Engineering Manager
